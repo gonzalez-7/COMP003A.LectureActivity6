@@ -8,5 +8,10 @@ namespace COMP003A.LectureActivity6
 	{
 		public string Name;
 		public int Age;
+		public Student(string name, int age)
+		{
+			Name = name;
+			Age = age;
+		}
 	}
 }
