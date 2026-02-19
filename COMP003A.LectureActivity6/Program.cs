@@ -9,6 +9,11 @@
 
 			student1.DisplayInfo();
 			student2.DisplayInfo();
+
+			student1.Age = 25;
+
+			student1.DisplayInfo();
+			student2.DisplayInfo();
 		}
 	}
 }
