@@ -14,6 +14,12 @@
 
 			student1.DisplayInfo();
 			student2.DisplayInfo();
+
+
+
+			// 1. Because each object is a separate instance in the memory
+			// 2. Because the method belongs to the Student Class
+			// 3. It manages its own data and behavior
 		}
 	}
 }
